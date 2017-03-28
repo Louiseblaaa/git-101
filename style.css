@@ -1,6 +1,11 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #1FB4EF;
+}
+
+h1{
+	color: white;
 }
 
 #logo {
